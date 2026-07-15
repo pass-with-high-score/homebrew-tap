@@ -10,7 +10,7 @@ cask "petify" do
   app "Petify.app"
 
   zap trash: [
-    "~/Library/Preferences/com.yourdomain.Petify.plist",
-    "~/Library/Caches/com.yourdomain.Petify"
+    "~/Library/Preferences/app.pwhs.Petify.plist",
+    "~/Library/Caches/app.pwhs.Petify"
   ]
 end
