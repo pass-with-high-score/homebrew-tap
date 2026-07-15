@@ -1,6 +1,6 @@
 cask "petify" do
   version "1.0.0"
-  sha256 "2f903fa13539aa5f2bb69121943a3b6ea5a8e21a20066f8acf420a89d2f8b3b0"
+  sha256 "79da224d8d84aa814edb3ba7576fbdddae1a9560f65da7139c19f21d7257488c"
 
   url "https://github.com/pass-with-high-score/pettify-macos/releases/download/v#{version}/Petify.dmg"
   name "Petify"
